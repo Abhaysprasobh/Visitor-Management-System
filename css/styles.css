@@ -1,0 +1,57 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+}
+
+h2 {
+  color: #343a40;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.card {
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.card-body {
+  padding: 30px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.content-box {
+  border-radius: 10px;
+  padding: 30px;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.content-box-dashboard {
+  background-color: #e3f2fd;
+}
+
+.content-box-invited {
+  background-color: #ffebee;
+}
+
+.content-box-normal {
+  background-color: #e8f5e9;
+}
+
+.content-box-regular {
+  background-color: #fff3e0;
+}
+
+.content-box-reports {
+  background-color: #f3e5f5;
+}
